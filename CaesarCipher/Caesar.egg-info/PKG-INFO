@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: Caesar
+Version: 0.0.1
+Summary: Package that apply caesar cipher on string
+Author: Hussein
+Requires-Dist: setuptools==70.0.0
